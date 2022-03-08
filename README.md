@@ -1,5 +1,5 @@
 # Tensorflow Wheels
-This is a repository with tensorflow wheels for CUDA compute capability 3.0 3.0. The builds are made and tested on Ubuntu 16.04 while the main guide that I followed for the build is the first answer from here: https://stackoverflow.com/questions/39023581/tensorflow-cuda-compute-capability-3-0-the-minimum-required-cuda-capability-is
+This is a repository with tensorflow wheels for CUDA compute capability 3.0 3.0. The builds are made and tested on Ubuntu 16.04.
 
 | TF | HW |Python | CUDA | cuDNN | Support | OS | Download |
 |:------:|:------:|:------:|:----:|:-------:|:-----:|:------------:|:------:|
